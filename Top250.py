@@ -31,5 +31,3 @@ def get_all_book():
             get_book(link)
 
 get_all_book()
-
-
